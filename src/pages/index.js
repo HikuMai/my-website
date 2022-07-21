@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Hello I'm HikuMai | Dũng Hiếu Nguyễn</title>
+        <title>Hello I’m HikuMai | Dũng Hiếu Nguyễn</title>
         <meta name="description" content="The golden Ape" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -16,7 +16,7 @@ export default function Home() {
           <h1 className={styles.heading}>"Hi. I'm HikuMai."</h1>
           <h1 className={styles.heading}>A Designer</h1>
           <p className={styles.heroSub}>
-            I'm also a front-end developer and general doodler with a keen eye
+            I’m also a front-end developer and general doodler with a keen eye
             for creating engaging UI, bringing products to life.
           </p>
         </section>

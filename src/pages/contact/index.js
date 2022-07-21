@@ -5,7 +5,7 @@ export default function Contact() {
   return (
     <>
       <Head>
-        <title>Hello I'm HikuMai | Dũng Hiếu Nguyễn</title>
+        <title>Hello I’m HikuMai | Dũng Hiếu Nguyễn</title>
         <meta name="description" content="The golden Ape" />
         <link rel="icon" href="/favicon.ico" />
       </Head>

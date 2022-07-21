@@ -7,7 +7,7 @@ export default function About() {
   return (
     <>
       <Head>
-        <title>Hello I'm HikuMai | Dũng Hiếu Nguyễn</title>
+        <title>Hello I’m HikuMai | Dũng Hiếu Nguyễn</title>
         <meta name="description" content="The golden Ape" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -25,7 +25,7 @@ export default function About() {
         </div>
         <div className={styles.infoHeroCol}>
           <h1 className={styles.h1}>
-            I'm Hiku, the name is Nguyễn Dũng Hiếu, a Web Designer working
+            I’m Hiku, the name is Nguyễn Dũng Hiếu, a Web Designer working
             remotely for scouting for mobile products.
           </h1>
           <p className={styles.p}>

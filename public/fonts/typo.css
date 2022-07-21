@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "Biotif-Regular";
+  src: url("./biotif.woff2") format('woff2');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Bogart-med";
+  src: url("./bogart-med.woff2") format('woff2');
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Bogart";
+  src: url("./bogart.woff2") format('woff2');
+  font-style: normal;
+  font-weight: bolder;
+}
+
+body {
+  font-family: "Biotif-Regular",Helvetica Neue,Helvetica,Arial,sans-serif;
+  font-weight: 400;
+}

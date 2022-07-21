@@ -1,0 +1,29 @@
+.cNav {
+  max-width: 1600px;
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+}
+
+.sNav {
+  position: fixed;
+  width: 100%;
+  z-index: 1040;
+  background: #fefaf6;
+}
+
+.linkRow {
+  display: flex;
+  justify-content: flex-start;
+  margin: 0 auto;
+  padding-left: 0;
+}
+
+.linkItem {
+  list-style-type: none;
+  display: block;
+  color: #232320;
+  font-size: 1.1em;
+  padding: 1.5em 2em;
+  font-weight: 500;
+}

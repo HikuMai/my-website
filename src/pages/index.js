@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <section className={styles.hero}>
-          <h1 className={styles.heading}>"Hi. I'm HikuMai."</h1>
+          <h1 className={styles.heading}>&quot;Hi. I&apos;m HikuMai.&quot;</h1>
           <h1 className={styles.heading}>A Designer</h1>
           <p className={styles.heroSub}>
             I&apos;m also a front-end developer and general doodler with a keen eye
